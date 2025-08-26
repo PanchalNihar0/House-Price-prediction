@@ -7,7 +7,7 @@
 4. Open Source
 
 ## Table Of Content
-1. [Project Descriptiom]<br>
+1. [Project Description]<br>
     A. Problem Statement<br>
     B. Best Possible Solutions<br>
     C. Introduction About Project<br>
