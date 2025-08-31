@@ -142,8 +142,7 @@ The dataset contains approximately **15,000 property listings** with the followi
 ---
 
 ## 📈 Visualizations  
-
-(Add your plots here)  
+ 
 
 ### Predicted vs. Actual Prices Scatter Plot  
 👉 <img width="1390" height="590" alt="image" src="https://github.com/user-attachments/assets/cb207dac-2856-4fdd-9a89-7b3d55d1b013" />
