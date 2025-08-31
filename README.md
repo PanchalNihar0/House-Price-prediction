@@ -156,3 +156,5 @@ The implementation highlights the importance of:
 - Thoughtful feature selection and engineering
 - Appropriate algorithm selection based on data characteristics
 - Rigorous model evaluation and comparison
+
+<img width="1390" height="590" alt="image" src="https://github.com/user-attachments/assets/963e1b19-5f16-4551-8b57-851eb27b8641" />
